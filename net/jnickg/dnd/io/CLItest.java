@@ -1,7 +1,9 @@
-package net.jnickg.dnd;
+package net.jnickg.dnd.io;
 
 import java.util.*;
 import java.io.*;
+
+import net.jnickg.dnd.Character;
 
 
 public class CLItest {
